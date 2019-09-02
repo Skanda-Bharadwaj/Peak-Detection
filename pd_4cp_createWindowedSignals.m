@@ -1,5 +1,5 @@
 %  ------------------------------------------------------------------------
-%  Peak Detection : Main File
+%  Peak Detection : createWindowedSignals
 %  ------------------------------------------------------------------------
 %  This project finds peaks instantaneously in sinusoidal signals using
 %  neural nets trained using sequential learning algorithm. 
